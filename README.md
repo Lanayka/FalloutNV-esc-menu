@@ -1,11 +1,13 @@
 # FalloutNV-esc-menu
 
-[b]This menu from Fallout: New Vegas![/b]
+This menu from Fallout: New Vegas!
 
-[b]►Features:
-• [u]Changing BG[/u]
-• [u]You can add new button[/u]
-• [u]Full customization[/u]
-• [u]Suitable for all gamemode[/u]
-• [u]You can use in single player[/u]
-• [u]This addon full free[/u][/b]
+►Features:
+•Changing BG.
+•You can add new button.
+•Full customization.
+•Suitable for all gamemode.
+•You can use in single player.
+•This addon full free.
+
+©Created by Lanayka Assassin. Steam profil: http://steamcommunity.com/id/lanayka_assassin/
